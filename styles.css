@@ -59,6 +59,7 @@ h3 {
 .main-content section hr {
   width: 90%;
   margin: 0 auto;
+  border-color: red;
 }
 
 .main-content section h3 {
